@@ -11,3 +11,4 @@ Arduino UNO
 Jumper Cables
 One Wire Sensor
 Breadboard
+Buzzer
