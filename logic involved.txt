@@ -1,0 +1,13 @@
+This device works on the basic principle of depression in freezing point 
+When an impurity is introduced in a pure substance. Its freezing point decreases.
+
+Purity test 
+
+The temperature of the pure petrol is 20 degree celcius but when an impurity is mixed into it(e.g-kerosene) Its temperature dereases below 20.
+
+Peripherals Required
+
+Arduino UNO
+Jumper Cables
+One Wire Sensor
+Breadboard
